@@ -24,7 +24,7 @@ html{
 
 #navbar::before{
     content: "";
-    background-color: #391212;
+    background-color: #702323;
     position: absolute;
     height: 100%;
     width: 100%;
@@ -62,7 +62,7 @@ html{
 }
 
 #navbar ul li a{
-    color: #4cc0ce;
+    color: #ffffff;
     display: block;
     padding: 3px 40px;
     border-radius: 20px;
